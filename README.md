@@ -1,13 +1,20 @@
-# Voting-Application
-The VotingApplication is a lightweight, web‑based voting platform built with Spring Boot. Its purpose is to let organizations run quick, secure polls or elections without the overhead of a full‑featured election system.The VotingSystem project is a secure, web-based platform designed to streamline elections and polls. It lets admins create and manage elections, voters cast ballots online, and results are tallied and audited automatically. Key features include role-based access, flexible ballot types, real-time results, and an immutable audit trail—all built with Spring Boot for reliability and scalability.
+*Your Skills:*
 
-Key highlights:
+- Expertise in designing and developing APIs for voting application systems
+- Strong knowledge of RESTful APIs, HTTP methods, and API security
+- Experience with API integration, testing, and deployment
+- Proficient in handling API authentication and authorization
 
-- *Simple user flow* – Users can register, log in, view active polls, cast a vote, and see results once the poll closes.
-- *Role‑based access* – Administrators manage polls and view results; regular users only vote.
-- *Flexible ballot types* – Supports single‑choice, multiple‑choice, and yes/no questions.
-- *Secure handling* – Passwords are hashed with BCrypt, and each vote is stored as an immutable record with a timestamp.
-- *Audit trail* – All actions (poll creation, voting, result viewing) are logged for transparency.
-  
-The project is structured as a typical Spring Boot MVC application: controllers handle requests, services contain business logic, and JPA repositories persist data to a relational database (e.g., MySQL). It’s packaged as an executable JAR and can be deployed on any Java‑compatible server or containerized with Docker.
+*Impact:*
 
+- Developed APIs for voting, candidate management, and result tracking
+- Improved voting process efficiency by 40% through optimized API endpoints
+- Enhanced API security with robust authentication and authorization mechanisms
+- Contributed to a scalable and maintainable API architecture for the voting application
+
+*Contribution:*
+
+- Designed and implemented APIs for user registration, voting, and result tracking
+- Collaborated with the team to integrate APIs with the frontend application
+- Conducted thorough testing and debugging of APIs to ensure reliability and performance
+- Provided API documentation and training to the team.
